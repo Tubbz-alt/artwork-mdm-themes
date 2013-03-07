@@ -1,0 +1,12 @@
+
+[MdmGreeterTheme]
+Encoding=UTF-8
+Greeter=manjaro.xml
+Name=Manjaro Green MDM
+Description=A green Manjaro MDM-theme with a user list.
+Author=Agustin J Verdegal
+Copyright=Based on Simply Grace
+Screenshot=thumb.png
+
+[Desktop Entry]
+Name[en_PH]=MdmGreeterTheme
